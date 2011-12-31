@@ -6,10 +6,10 @@ Gem::Specification.new do |s|
   s.name        = "rails_jquery_ui_datepicker"
   s.version     = RailsJqueryUiDatepicker::VERSION
   s.authors     = ["Michael Witrant"]
-  s.email       = ["mike@lepton.fr"]
+  s.email       = ["michael@ouvrages-web.fr"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = %q{Make Rails date helpers use the JQuery UI Datepicker}
+  s.description = %q{Make Rails date helpers use the JQuery UI Datepicker}
 
   s.rubyforge_project = "rails_jquery_ui_datepicker"
 
