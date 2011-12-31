@@ -1,3 +1,5 @@
 $(document).ready ->
   $("[data-datetimepicker]").each ->
-    $(this).datetimepicker()
+    $(this).datetimepicker
+      dateFormat: "yy-mm-dd"
+      timeFormat: "hh:mm"
