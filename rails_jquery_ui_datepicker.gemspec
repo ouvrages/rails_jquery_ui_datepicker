@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version     = RailsJqueryUiDatepicker::VERSION
   s.authors     = ["Michael Witrant"]
   s.email       = ["michael@ouvrages-web.fr"]
-  s.homepage    = ""
+  s.homepage    = "https://github.com/ouvrages/rails_jquery_ui_datepicker"
   s.summary     = %q{Make Rails date helpers use the JQuery UI Datepicker}
   s.description = %q{Make Rails date helpers use the JQuery UI Datepicker}
 
